@@ -199,4 +199,8 @@ body {
     .row2 {
         display: block;
     }
+    images.web{
+        width: 100px;
+        height: 100px;
+    }
 }
